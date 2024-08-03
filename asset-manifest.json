@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/propertybookingproject/static/css/main.2858d918.css",
+    "main.js": "/propertybookingproject/static/js/main.737693d0.js",
+    "static/js/453.a7972f06.chunk.js": "/propertybookingproject/static/js/453.a7972f06.chunk.js",
+    "index.html": "/propertybookingproject/index.html",
+    "main.2858d918.css.map": "/propertybookingproject/static/css/main.2858d918.css.map",
+    "main.737693d0.js.map": "/propertybookingproject/static/js/main.737693d0.js.map",
+    "453.a7972f06.chunk.js.map": "/propertybookingproject/static/js/453.a7972f06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2858d918.css",
+    "static/js/main.737693d0.js"
+  ]
+}

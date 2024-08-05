@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/propertybookingproject/static/css/main.5f58360e.css",
-    "main.js": "/propertybookingproject/static/js/main.741afc45.js",
+    "main.js": "/propertybookingproject/static/js/main.58865a1b.js",
     "static/js/453.73cb68ed.chunk.js": "/propertybookingproject/static/js/453.73cb68ed.chunk.js",
     "index.html": "/propertybookingproject/index.html",
     "main.5f58360e.css.map": "/propertybookingproject/static/css/main.5f58360e.css.map",
-    "main.741afc45.js.map": "/propertybookingproject/static/js/main.741afc45.js.map",
+    "main.58865a1b.js.map": "/propertybookingproject/static/js/main.58865a1b.js.map",
     "453.73cb68ed.chunk.js.map": "/propertybookingproject/static/js/453.73cb68ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f58360e.css",
-    "static/js/main.741afc45.js"
+    "static/js/main.58865a1b.js"
   ]
 }
